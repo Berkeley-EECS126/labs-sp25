@@ -1,3 +1,0 @@
-numpy
-matplotlib
-otter-grader==6.1.0
